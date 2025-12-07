@@ -7,7 +7,7 @@ Format:  2025-01-03|15:31:03|0.11|0.06|0.09
 AND
 
 Save to: /data/self-heal/load/reactor-2024-12-26.log
-Format: 2024-12-26|23:59:59|LOAD|tri-xfer-to-isilon.int.tri.edu.au|0.16|0.09|0.08
+Format: 2024-12-26|23:59:59|LOAD|xfer.my-company.com|0.16|0.09|0.08
 """
 
 import logging
